@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.148.1
+
+<details><summary>google/cloud-vision 1.2.3</summary>
+
+
+
+### Miscellaneous Chores
+
+* **vision:** fix typo ([#3642](https://www.github.com/googleapis/google-cloud-php/issues/3642)) ([a1144e8](https://www.github.com/googleapis/google-cloud-php/commit/a1144e8947b7d904f48315689966d3730fe061ea))
+
+</details>
+
 ## 0.148.0
 
 <details><summary>google/cloud-compute 0.1.0</summary>

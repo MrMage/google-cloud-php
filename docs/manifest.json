@@ -11,6 +11,7 @@
             "name": "google/cloud",
             "defaultService": "servicebuilder",
             "versions": [
+                "v0.148.1",
                 "v0.148.0",
                 "v0.147.0",
                 "v0.146.0",
@@ -2290,6 +2291,7 @@
             "name": "google/cloud-vision",
             "defaultService": "vision/visionclient",
             "versions": [
+                "v1.2.3",
                 "v1.2.2",
                 "v1.2.1",
                 "v1.2.0",
